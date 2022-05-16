@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lolo20020803&show_icons=true&theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Lolo20020803/Lolo20020803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
